@@ -82,4 +82,4 @@ export PATH="$HOME/.composer/vendor/bin:$PATH"
 
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
-alias ll="ls-lash"
+alias ll="ls -lash"
