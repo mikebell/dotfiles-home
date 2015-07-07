@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/mbell/Vagrant/drupaldev-apache/sites/und002.drupal.dev/site/www/tcma/sites/all/modules/contrib/log4php'
+let g:netrw_dirhist_2='/Users/mbell/Vagrant/drupaldev-nginx/sites/cyber.drupal.dev/site/.git'
+let g:netrw_dirhist_3='/Users/mbell/Vagrant/drupaldev-nginx/sites/epok.drupal.dev/web/css/bootstrap'
+let g:netrw_dirhist_4='/Users/mbell/Vagrant/drupaldev-nginx/sites/epok.drupal.dev/vendor/twbs/bootstrap-sass/vendor/assets/stylesheets/bootstrap'
+let g:netrw_dirhist_5='/Users/mbell/Vagrant/drupaldev-nginx/hieradata'
+let g:netrw_dirhist_6='/Users/mbell/Vagrant/gla-apache/sites/LG-2014/web/sites/all/modules/custom/extrapane'
+let g:netrw_dirhist_7='/Users/mbell'
